@@ -4,5 +4,16 @@
   "artist": "Hagiwara Daisuke",
   "author": "Hagiwara Daisuke",
   "cover": "https://static.mfcdn.nl/b565/i/5/fb/fd13638c455d699d383e6bed476fe0cb.jpg",
-  "chapters": {}
+  "chapters": {
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1786366295",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1rwbAa5gutKC6RNBwE8gOJ6u92n6FARyI"
+        ]
+      }
+    }
+  }
 }
